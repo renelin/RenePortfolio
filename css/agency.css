@@ -65,6 +65,18 @@ h6 {
     max-width: 500px;
 }
 
+.mgm_result_127{
+    width: 100%;
+    /*max-width: 500px;*/
+    margin: 0 auto 40px auto;
+    padding: 20px;
+    background-color: #eee;
+    /*border-radius: 10px;*/
+    line-height: 1.6;
+    font-size: 16px;
+    font-family: '微軟正黑體',"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
